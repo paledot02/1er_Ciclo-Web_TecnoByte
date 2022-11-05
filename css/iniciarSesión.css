@@ -1,0 +1,44 @@
+.sectionSesion{
+    width: 95%;
+    min-width: 700px;
+    margin: 30px auto;
+    border: grey 2px solid;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(238, 226, 226);
+}
+.registro, .login{
+    width: 30%;
+    min-width: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+.sectionSesion h2{
+    font-family: arial;
+    padding: 5px 0;
+    margin: 10px 0 30px 0 ;
+    border-bottom: grey 2px solid;
+}
+.sectionSesion form{
+    border: 2px solid rgb(173, 173, 173);
+    padding: 16px;
+    background-color: whitesmoke;
+}
+.sectionSesion .label{
+    display: flex;
+    padding: 5px 0;
+    font-family: sans-serif;
+}
+.sectionSesion input{
+    
+    font-family: sans-serif;
+    font-size: large;
+    padding: 10px 10px;
+    
+    border: grey solid 2px;
+    border-radius: 2px;
+}
+.sectionSesion .input{
+    width: 100%;
+}
+

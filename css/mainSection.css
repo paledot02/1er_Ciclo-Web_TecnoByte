@@ -1,0 +1,59 @@
+/* SECTION */
+main .sectionPrincipal{
+    width: 85%;  /*---*/
+    margin: 20px 0;
+    padding: 0px 20px;
+}
+main .sectionPrincipal h2{
+    font-family: sans-serif;
+    padding: 10px
+}
+.cajon{
+    display: flex;
+    justify-content: center;
+    Flex-wrap: wrap;
+}
+.cajon img{
+    max-width: 100%;
+}
+.cajon div{
+    border: 2px solid  #a2b493;
+    background-color: rgb(231, 249, 255);
+    border-radius: 5px;
+    padding: 10px;
+    width: 240px;
+    margin: 5px;
+}
+.cajon h3{
+    text-align: center;
+}
+/* MOUSE LOGITECH */
+.sectionMouse{
+    width: 95%;
+    margin: 20px auto;
+    padding: 0px 20px;
+    border: red 1px solid;
+}
+main .sectionMouse h2{
+    font-family: sans-serif;
+    padding: 10px
+}
+.cajonMouse{
+    display: flex;
+    margin: 20px 0;
+}
+.txtMouse{
+    width: 60%;
+    padding: 10px 10px 10px 30px;
+}
+.imgMouse{
+    width: 40%;
+}
+.imgMouse img{
+    width: 100%;
+    padding: 10px;
+    border: solid 3px grey;
+}
+.txtMouse h3{
+    padding: 10px 0;
+}

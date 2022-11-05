@@ -1,0 +1,32 @@
+footer{
+    border-top: solid 5px grey;
+    background-color:  black;
+    padding: 20px;
+}
+footer p{
+    color: whitesmoke;
+    font-family: arial;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: bold;
+}
+footer img{
+   max-width: 100px;
+}
+footer .cajafooter{
+    margin: 40px 18px;
+    text-align: center;
+}
+iframe{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: grey 2px solid;
+}
+footer>div{
+    border: #669e37 3px solid;
+    display: flex;
+    flex-wrap: wrap;
+    Justify-content: space-around;  
+    Align-items: center;
+}
